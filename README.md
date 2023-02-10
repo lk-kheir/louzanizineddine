@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MySql,Rust,C
 - 💞️ I’m looking to collaborate on any Intresseting project
 - 📫 You can reach me via email: zineddine.louzani@yahoo.com
-- 🌐 check out my personal portfolio: [Link text Here](louzanizineddine.me)
+- 🌐 check out my personal [portfolio](louzanizineddine.me)
 
 <!---
 louzanizineddine/louzanizineddine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
